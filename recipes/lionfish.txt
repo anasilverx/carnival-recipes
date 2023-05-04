@@ -1,7 +1,5 @@
 Lisa's Sausage & Red Pepper Pasta
 ---------------------------------
-<<<<<<< Updated upstream
-=======
 
 1. Add the vegetable oil and sausage links (unsliced) to a large pot.
 2. Cook over medium heat until the sausage is browned and firm enough to slice. It doesn't have to be cooked through at this point.
@@ -13,6 +11,7 @@ Lisa's Sausage & Red Pepper Pasta
 9. Once the pasta is finished cooking, drain it in a colander and then add it to the pot with the sausage and peppers.
 
 Ingredients:
+
 Servings: 8
 
 1 medium red bell pepper
@@ -25,6 +24,3 @@ Servings: 8
 1/2 Tbsp dried basil
 1/4 tsp crushed red pepper (optional)
 
-
-
->>>>>>> Stashed changes
